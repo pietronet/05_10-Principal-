@@ -1,0 +1,5 @@
+let nome = document.getElementById("nome")
+let email = document.getElementById("email")
+let telefone = document.getElementById("telefone")
+let cpf = document.getElementById ("CPF")
+let valor_doado = document.getElementById("valor_doado")
